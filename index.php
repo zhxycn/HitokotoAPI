@@ -1,23 +1,12 @@
-<?php
-	/*
-		FlyingSky-CN / HitokotoAPI
-		
-		Copyright 2018 FlyingSky & OWUcat .
+<!DOCTYPE HTML>
 
-		Licensed under the Apache License, Version 2.0 (the "License");
-		you may not use this file except in compliance with the License.
-		You may obtain a copy of the License at
+    <head>
+        <link rel="icon" type="image/x-icon" href="<?php echo ('favicon.ico'); ?>">
+	<title>Hitokoto API</title>
+    </head>
 
-			http://www.apache.org/licenses/LICENSE-2.0
+    <pre style="word-wrap: break-word; white-space: pre-wrap;"><?php
 
-		Unless required by applicable law or agreed to in writing, software
-		distributed under the License is distributed on an "AS IS" BASIS,
-		WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-		See the License for the specific language governing permissions and
-		limitations under the License.
-	
-	*/
-	
 	$stime=microtime(true);
 
 	$path = dirname(__FILE__);
@@ -51,4 +40,4 @@
       	echo $total;
     }
 
-?>
+?></pre>
