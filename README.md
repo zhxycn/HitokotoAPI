@@ -48,4 +48,6 @@ js|返回函数名为 hitokoto 的 JavaScript 脚本
 ## 关于
 本项目在 [FlyingSky-CN](https://github.com/FlyingSky-CN/HitokotoAPI) 的基础上修改添加。
 
+[hitokoto.txt](./hitokoto.txt) 内容来自 [hitokoto.cn](https://hitokoto.cn) 。
+
 >© [zhxy-CN](https://github.com/zhxycn) [FlyingSky-CN](https://github.com/FlyingSky-CN), Released under the [Apache-2.0](./LICENSE) License.
